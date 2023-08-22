@@ -68,14 +68,23 @@ Let the learning journey begin in the world of Augmented Reality! 🌟📚🔍
 ## Screenshots and Videos
 
 
-- ![Flow of UI]
-(https://github.com/smit02K/Xpand_Realty/assets/63186967/12a1c35e-41a4-4c30-b0e7-24c9a1657730)
+- Flow of UI![Flow of UI](https://github.com/smit02K/Xpand_Realty/assets/63186967/12a1c35e-41a4-4c30-b0e7-24c9a1657730)
 
 
-- ![Block Diagram]
-  (https://github.com/smit02K/Xpand_Realty/assets/63186967/1fbd8e47-1c32-40b4-93b7-a70c334405a3)
 
-- ![Working] 
-https://github.com/smit02K/Xpand_Realty/assets/63186967/765d96cc-8878-4bcc-967b-f5ef3c3c310a
+- Block Diagram ![Block Diagram](https://github.com/smit02K/Xpand_Realty/assets/63186967/1fbd8e47-1c32-40b4-93b7-a70c334405a3)
 
-eo_demo)
+
+
+- Unity 3D view ![Screenshot 1](https://github.com/smit02K/Xpand_Realty/assets/63186967/e8149e36-224d-4376-bdd3-45be6c066b05)
+
+
+
+- Working of Xpand_Realty 
+
+https://github.com/smit02K/Xpand_Realty/assets/63186967/8b7a67ac-0e13-493e-845e-ffeaf952e542
+
+
+
+
+
