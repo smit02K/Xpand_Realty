@@ -68,9 +68,11 @@ Let the learning journey begin in the world of Augmented Reality! 🌟📚🔍
 ## Screenshots and Videos
 
 
-- ![Screenshot 1](link_to_sc![flow_chart](https://github.com/smit02K/Xpand_Realty/assets/63186967/12a1c35e-41a4-4c30-b0e7-24c9a1657730)
+- Flow of UI
+[flow_chart](https://github.com/smit02K/Xpand_Realty/assets/63186967/12a1c35e-41a4-4c30-b0e7-24c9a1657730)
 reenshot_1)
-- ![Screenshot 2](link![block_dig](https://github.com/smit02K/Xpand_Realty/assets/63186967/1fbd8e47-1c32-40b4-93b7-a70c334405a3)
+- Block Diagram
+- (link![block_dig](https://github.com/smit02K/Xpand_Realty/assets/63186967/1fbd8e47-1c32-40b4-93b7-a70c334405a3)
 _to_screenshot_2)
 - [Video Demo](link_to_vid
 
