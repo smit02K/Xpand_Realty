@@ -47,7 +47,7 @@ The application consists of the following screens:
 ## Technologies
 - Unity: The game engine used for development.
 - Augmented Reality (AR): Enhancing learning through immersive visualizations.
-- Figma: To create a user interface (UI) for application
+- Figma: To create a user interface (UI) for the application
 
 ## Contributors
 - Smit Kalathiya - Developer
@@ -68,14 +68,14 @@ Let the learning journey begin in the world of Augmented Reality! 🌟📚🔍
 ## Screenshots and Videos
 
 
-- Flow of UI
+- ![Flow of UI]
 (https://github.com/smit02K/Xpand_Realty/assets/63186967/12a1c35e-41a4-4c30-b0e7-24c9a1657730)
 
 
-- Block Diagram
+- ![Block Diagram]
   (https://github.com/smit02K/Xpand_Realty/assets/63186967/1fbd8e47-1c32-40b4-93b7-a70c334405a3)
 
-- Working 
+- ![Working] 
 https://github.com/smit02K/Xpand_Realty/assets/63186967/765d96cc-8878-4bcc-967b-f5ef3c3c310a
 
 eo_demo)
